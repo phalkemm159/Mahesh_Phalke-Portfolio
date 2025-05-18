@@ -5,7 +5,7 @@
 This repository contains the code of my personal portfolio website showcasing projects, skills, and expertise as a web developer.
 The README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
 
-![Demo](link of image)
+Demo: https://mahesh-phalke-portfolio.onrender.com
 
 ## Table of Contents
 
@@ -96,7 +96,7 @@ These meta tags are included to improve search engine visibility and provide a c
 
 ## Deployment
 
-The portfolio is live and accessible at https://solarluiso-portfolio.vercel.app.
+The portfolio is live and accessible at [https://mahesh-phalke-portfolio.onrender.com]
 
 You can view and manage the deployment settings on Render Dashboard.
 
