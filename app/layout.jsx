@@ -18,7 +18,7 @@ const roboto = Roboto({
 });
 
 export const metadata = {
-  title: "Mahesh Phalke - AI/ML, Developer Portfolio",
+  title: "Mahesh Phalke - DS/ML, Developer Portfolio",
   description:
     "Explore the portfolio of Mahesh Phalke, a Ai/Ml, web developer showcasing his projects and expertise.",
 };
