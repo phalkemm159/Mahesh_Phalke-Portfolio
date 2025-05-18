@@ -1,4 +1,6 @@
-# Mahesh Phalke - Developer Portfolio
+# Mahesh Phalke - DS / ML, Developer Portfolio
+
+![image](https://github.com/user-attachments/assets/d0bfd4ed-cc20-4b99-b35e-b196b50580d0)
 
 This repository contains the code of my personal portfolio website showcasing projects, skills, and expertise as a web developer.
 The README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
@@ -35,11 +37,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/solarluiso/solarluiso-portfolio.git
+   git clone https://github.com/phalkemm159/mahesh-portfolio-master.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd solarluiso-portfolio
+   cd Mahesh_Phalke-Portfolio
    ```
 3. Install dependencies:
 
