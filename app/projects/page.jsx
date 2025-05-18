@@ -14,8 +14,8 @@ const projects = [
     description: "A dynamic full-stack Mahesh Phalke's Portfolio application.",
     stack: [{ name: "React.js" }, { name: "Node.js" }, { name: "MongoDB" }],
     image: "/assets/projects/thumb1.png",
-    live: "",
-    github: "",
+    live: "https://mahesh-phalke-portfolio.onrender.com",
+    github: "https://github.com/phalkemm159/Mahesh_Phalke-Portfolio",
   },
   {
     num: "02",
