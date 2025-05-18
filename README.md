@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/phalkemm159/mahesh-portfolio-master.git
+   git clone https://github.com/phalkemm159/Mahesh_Phalke-Portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -98,7 +98,7 @@ These meta tags are included to improve search engine visibility and provide a c
 
 The portfolio is live and accessible at https://solarluiso-portfolio.vercel.app.
 
-You can view and manage the deployment settings on Vercel Dashboard.
+You can view and manage the deployment settings on Render Dashboard.
 
 ## Contributing
 
@@ -138,3 +138,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - React Icons: Used for incorporating icons throughout the site.
 
 - Inspiration: Various online portfolios and modern web design trends served as design inspiration.
+
+## Made By:
+
+- phalkemm159
+- Mahesh Macchindra Phalke
